@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666471316172",
+    "firebase_url": "https://photolabeling-5940b.firebaseio.com",
+    "project_id": "photolabeling-5940b",
+    "storage_bucket": "photolabeling-5940b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666471316172:android:4080d95906065c85",
+        "android_client_info": {
+          "package_name": "com.example.photolabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666471316172-m488e6vvtvdgund186ol3k97hv2dt0sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photolabeling",
+            "certificate_hash": "0e27d730f815a176033cbbcaa9b9e5c1a7eafb27"
+          }
+        },
+        {
+          "client_id": "666471316172-9pluilogu4v3jkn57jej896sbq1n6467.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_vvLLomdU8emfp-CPiopCC4HCTaAqjDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666471316172-9pluilogu4v3jkn57jej896sbq1n6467.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

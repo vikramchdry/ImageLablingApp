@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photo labeling</string>
+    <string name="permission_request">The app needs to access files on your device</string>
+</resources>
